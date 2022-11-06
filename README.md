@@ -1,2 +1,13 @@
-# -computer-games
-Data analysis of sales in video game industry based on types of games and platforms
+# Analysis of Gaming Platforms
+
+## 1. Description
+The gaming console market is expected to grow with advancement in core wireless connectivity. The evolution of smart games and applications based on virtual assistant services is anticipated to drive the market in the upcoming future. As a part of a strategy, major players are investing in the development and launch of premium and high-performance game consoles. At the same time, companies operating in the market are shifting from standard-definition television to advanced ultra-high-definition with 4K and 8R display resolutions. Examples of such companies are Google, Nvidia, Microsoft, Sony and so on. In regard to this high-tech industry, the research focuses on types of computer games and gaming platforms available nowadays on the market. 
+
+## 2. Application
+Gamedev, Online Stores, Digital Agencies / Marketing / PR / SEO, Business Services [b2b] (outsourcing consulting audit), Startups, IT Company
+
+## 3. Tech stack
+- Pandas
+- Numpy
+- Scipy
+- Matplotlib
