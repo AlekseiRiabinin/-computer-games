@@ -11,3 +11,6 @@ Gamedev, Online Stores, Digital Agencies / Marketing / PR / SEO, Business Servic
 - Numpy
 - Scipy
 - Matplotlib
+
+## 4. Results
+PS3 and X360 platforms show more stable sales in recent years, but at this moment PS3 demonstrates an uplifting tendency. Wii has the potential to regain the profit, but it depends on critics and users who mostly prefer Shooter and Sports. In terms of annual revenue, America with X360 has a large market today. Second is  Europe, where the PS3 and PS4 dominate.
